@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "inde.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -556,10 +556,10 @@
         }
       ]
     },
-    "page1.html": {
+    "inde.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
-        "title": "Page 1",
+        "title": "TAAM Foods",
         "order": 1
       },
       "components": [
